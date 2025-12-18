@@ -47,3 +47,10 @@ Preview the production build:
 npm run preview
 ```
 
+## Admin Route Checker
+
+```bash
+node check-admin-routes.cjs src/
+```
+
+
